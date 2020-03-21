@@ -2,6 +2,14 @@
   min-height: 100vh;
   background-color: black;
 }
+
+.head{
+  display: flex;
+  color: white;
+  align-self: center;
+  justify-content: center;
+}
+
 .characters{
   display: flex;
   flex-wrap: wrap;

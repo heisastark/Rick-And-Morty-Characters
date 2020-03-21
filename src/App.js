@@ -17,6 +17,10 @@ const App = props => {
 
   return (
     <div className="app">
+      <div>
+        <header className="head">This is just a website that displays all the Rick and Morty Characters</header>
+        <header className="head">💙 from Yashasvi</header>
+      </div>
       {characters.length > 0 ?
       <div className="characters">
         {   characters.map(character => (
