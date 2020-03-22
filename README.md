@@ -1,3 +1,5 @@
+This is a website that displays Characters of Rick and Morty
+
 Project Deployed at:
 https://charactersofrickandmorty.netlify.com/
 
